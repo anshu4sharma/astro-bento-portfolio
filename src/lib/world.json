@@ -6674,7 +6674,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Italy" },
+      "properties": { "name": "India" },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [

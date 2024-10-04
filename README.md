@@ -6,7 +6,7 @@
 
 To view a demo example, **[click here](https://sparkly-speculoos-0c9197.netlify.app/)**
 
-or my portfolio **[click here](https://gianmarco.xyz/)**
+or my portfolio **[click here](https://anshu.store/)**
 
 ## Features
 
@@ -70,4 +70,4 @@ or
 
 ## Authors ❤️
 
-- Gianmarco - https://github.com/Ladvace
+- Anshu - https://github.com/Ladvace
